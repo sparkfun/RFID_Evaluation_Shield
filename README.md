@@ -1,18 +1,16 @@
-Test sketch for Sparkfun's [RFID Evaluation Shield - 13.56MHz](https://www.sparkfun.com/products/10406).
+RFID Evaluation Shield - 13.56 MHz
+===================================
 
+[![RFID Evaluation Shield](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/4/0/6/10406-01.jpg)  
+*RFID Evaluation Shield - 13.56 MHz (DEV-10406)*](https://www.sparkfun.com/products/10406)
 
 Repository Contents
 -------------------
 
-* **RFID_Eval_13_56MHz.ino** - Arduino example
+* **/Firmware** - Example Arduino sketch
+* **/Hardware** - Eagle design files for the board (.brd, .sch)
 
-Hardware License
-----------------
-
-[Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/)
-
-Authors: 
-
-Aaron Weiss @ SparkFun Electonics
-
-SebMadgwick: Minor modifications to Aaron Weiss's [original code](http://dlnmh9ip6v2uc.cloudfront.net/datasheets/Sensors/ID/RFID_Eval_13_56MHz_v10.pde) to enable compatibility with Arduino 1.0 which now incorporates an implementation of NewSoftSerial.
+License Information
+-------------------
+The hardware is released under [Creative Commons Share-alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/).  
+All other code is open source so please feel free to do anything you want with it; you buy me a beer if you use this and we meet someday ([Beerware license](http://en.wikipedia.org/wiki/Beerware)).
