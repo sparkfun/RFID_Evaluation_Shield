@@ -1,7 +1,7 @@
 RFID Evaluation Shield - 13.56 MHz
 ===================================
 
-[![RFID Evaluation Shield](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/4/0/6/10406-01.jpg)  
+[![RFID Evaluation Shield](https://cdn.sparkfun.com/assets/parts/4/8/7/6/10406-01.jpg)  
 *RFID Evaluation Shield - 13.56 MHz (DEV-10406)*](https://www.sparkfun.com/products/10406)
 
 Repository Contents
